@@ -15,8 +15,19 @@ Certificates I have received to improve my technical knowledge
 - [✔️] [CodeFresh GitOps Fundamentals](/2022/CodeFresh_GitOps_Fundamentals.pdf)
 - [✔️] [RedHat Cloud Native Development](/2022/RedHat_Cloud-Native_Development.pdf)
 - [✔️] [Zerto Enterprise Engineer](/2022/RedHat_Cloud_Infrastructure.pdf)
-- [✔️] [Linux Foundation GitOps](/2022/nurdan-kolay-19adaf3c-5650-4be0-a50b-d5e9cdf63fb4-certificate.pdf)
+- [✔️] [Linux Foundation GitOps](/2022/LinuxFoundation_GitOps.pdf)
 - [✔️] [HackerRank Python (Basic)](/2022/python_basic_certificate.pdf)
   
 ##### 2023
-- [✔️] [AWS Fundamentals](/2023/AWS Foundational Level Cloud Practitioner Essentials.pdf)
+
+- [✔️] [Yonetim Academy AWS Fundamentals](/2023/AWS_Foundational_Level_Cloud_Practitioner_Essentials.pdf)
+- [✔️] [Udemy Azure DevOps](/2023/Azure_DevOps.pdf)
+- [✔️] [Cambly English(Conversational)](/2023/Azure_DevOps.pdf)
+- [✔️] [BTK Academy Jenkins](/2023/DevOps_Solutions_(Jenkins)_Certificates.pdf)
+- [✔️] [Udemy Ansible](/2023/DevOps-Ansible-Zero-to-Hero.pdf)
+- [✔️] [BTK Academy Docker Fundamentals](/2023/Docker_Fundamentals_Certificates.pdf)
+- [✔️] [BTK Academy Introduction to Operating System](/2023/Introduction_to_Operating_System_Certificates.pdf)
+- [✔️] [Udemy API Test and Test Automation with Postman](/2023/Postman_ile_API_(Arayuz)_Testi_ve_Test_Otomasyonu.pdf)
+- [✔️] [TEI_Professional](/2023/TEI_Professional.jpg)
+- [✔️] [BTK Academy Version_Controls_Git_and_GitHub](/2023/Version_Controls_Git_and_GitHub.pdf)
+
