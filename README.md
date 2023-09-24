@@ -22,7 +22,7 @@ Certificates I have received to improve my technical knowledge
 
 - [✔️] [Yonetim Academy AWS Fundamentals](/2023/AWS_Foundational_Level_Cloud_Practitioner_Essentials.pdf)
 - [✔️] [Udemy Azure DevOps](/2023/Azure_DevOps.pdf)
-- [✔️] [Cambly English(Conversational)](/2023/Azure_DevOps.pdf)
+- [✔️] [Cambly English(Conversational)](/2023/Cambly_Certificate.pdf)
 - [✔️] [BTK Academy Jenkins](/2023/DevOps_Solutions_(Jenkins)_Certificates.pdf)
 - [✔️] [Udemy Ansible](/2023/DevOps-Ansible-Zero-to-Hero.pdf)
 - [✔️] [BTK Academy Docker Fundamentals](/2023/Docker_Fundamentals_Certificates.pdf)
