@@ -5,6 +5,7 @@ Certificates I have received to improve my technical knowledge
 ##### 2021 
 
 - [✔️] [Udemy Virtualbox](/2020/VirtualBox_with_virtual_machine.pdf)
+- [✔️] [Udemy Hands-On Linux Terminal](/2020/Hands-On-Linux-Terminal.pdf)
 
 ##### 2021 
 
@@ -35,3 +36,4 @@ Certificates I have received to improve my technical knowledge
 - [✔️] [TEI_Professional](/2023/TEI_Professional.jpg)
 - [✔️] [BTK Academy Version_Controls_Git_and_GitHub](/2023/Version_Controls_Git_and_GitHub.pdf)
 - [✔️] [Udemy Cybersecurity in 90 Minutes](/2023/Cybersecurity_in_90Minutes.pdf)
+- [✔️] [Udemy Linux Command Document](/2023/Linux-Fundamentals.pdf)
