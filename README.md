@@ -30,4 +30,4 @@ Certificates I have received to improve my technical knowledge
 - [✔️] [Udemy API Test and Test Automation with Postman](/2023/Postman_ile_API_(Arayuz)_Testi_ve_Test_Otomasyonu.pdf)
 - [✔️] [TEI_Professional](/2023/TEI_Professional.jpg)
 - [✔️] [BTK Academy Version_Controls_Git_and_GitHub](/2023/Version_Controls_Git_and_GitHub.pdf)
-
+- [✔️] [Udemy Cybersecurity in 90 Minutes](/2023/Cybersecurity_in_90Minutes.pdf)
