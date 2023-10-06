@@ -6,6 +6,7 @@ Certificates I have received to improve my technical knowledge
 
 - [✔️] [Udemy Virtualbox](/2020/VirtualBox_with_virtual_machine.pdf)
 - [✔️] [Udemy Hands-On Linux Terminal](/2020/Hands-On-Linux-Terminal.pdf)
+- [✔️] [Udemy YDS YOKDIL Document](/2020/yds.pdf)
 
 ##### 2021 
 
@@ -37,3 +38,6 @@ Certificates I have received to improve my technical knowledge
 - [✔️] [BTK Academy Version_Controls_Git_and_GitHub](/2023/Version_Controls_Git_and_GitHub.pdf)
 - [✔️] [Udemy Cybersecurity in 90 Minutes](/2023/Cybersecurity_in_90Minutes.pdf)
 - [✔️] [Udemy Linux Command Document](/2023/Linux-Fundamentals.pdf)
+- [✔️] [BTK Academy Career Goal Definition](/2023/Kariyerde_Hedef_Belirleme_Sertifika.pdf)
+- [✔️] [BTK Academy Bilgi Teknolojilerine Giris](/2023/Bilgi_Teknolojilerine_Giri__Sertifika.pdf)
+- [✔️] [Global AI Introduction to AI, Robotics and Data](/2023/Nurdan%20Kolay-Introduction%20to%20AI,%20Robotics%20and%20Data-Global%20AI%20Hub.pdf)
