@@ -40,4 +40,5 @@ Certificates I have received to improve my technical knowledge
 - [✔️] [Udemy Linux Command Document](/2023/Linux-Fundamentals.pdf)
 - [✔️] [BTK Academy Career Goal Definition](/2023/Kariyerde_Hedef_Belirleme_Sertifika.pdf)
 - [✔️] [BTK Academy Bilgi Teknolojilerine Giris](/2023/Bilgi_Teknolojilerine_Giri__Sertifika.pdf)
-- [✔️] [Global AI Introduction to AI, Robotics and Data](/2023/Nurdan%20Kolay-Introduction%20to%20AI,%20Robotics%20and%20Data-Global%20AI%20Hub.pdf)
+- [✔️] [Global AI Hub Introduction to AI, Robotics and Data](/2023/Nurdan%20Kolay-Introduction%20to%20AI,%20Robotics%20and%20Data-Global%20AI%20Hub.pdf)
+- [✔️] [Global AI Hub Introduction to Python](/2023/Nurdan%20Kolay-Introduction%20to%20Python-Global%20AI%20Hub.pdf)
