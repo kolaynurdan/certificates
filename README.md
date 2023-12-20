@@ -44,4 +44,4 @@ Certificates I have received to improve my technical knowledge
 - [✔️] [Global AI Hub Introduction to Python](/2023/Nurdan%20Kolay-Introduction%20to%20Python-Global%20AI%20Hub.pdf)
 - [✔️] [Global AI Hub Python for Machine Learning](/2023/Nurdan%20Kolay-Python%20for%20Machine%20Learning-Global%20AI%20Hub.pdf)
 - [✔️] [Network Fundamentals](/2023/Network_Fundamentals.pdf)
-- [✔️] [Network Fundamentals](/2023/AWS_Cloud_Solutions.pdf)
+- [✔️] [AWS_Cloud_Solutions](/2023/AWS_Cloud_Solutions.pdf)
