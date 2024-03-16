@@ -47,3 +47,5 @@ Certificates I have received to improve my technical knowledge
 - [✔️] [AWS Cloud Solutions](/2023/AWS_Cloud_Solutions.pdf)
 
 ##### 2024
+
+- [✔️] [Cambly English(Conversational)](/2024/Cambly_Certificate.pdf)
