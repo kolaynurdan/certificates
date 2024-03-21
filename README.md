@@ -49,3 +49,4 @@ Certificates I have received to improve my technical knowledge
 ##### 2024
 
 - [✔️] [Cambly English(Conversational)](/2024/Cambly_Certificate.pdf)
+- [✔️] [Getting started with Typescript](/2024/Getting_started_with_TypeScript.pdf)
