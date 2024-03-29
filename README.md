@@ -49,4 +49,5 @@
 
 - [✔️] [Cambly English(Conversational)](/2024/Cambly_Certificate.pdf)
 - [✔️] [Getting started with Typescript](/2024/Getting_started_with_TypeScript.pdf)
-- [✔️] [Docker](/2024/Docker.pdf)
+- [✔️] [Docker(A'dan Z'ye)](/2024/Docker.pdf)
+- [✔️] [Deliver software faster with microservices](/2024/Deliver_software_faster_with_microservices.pdf)
