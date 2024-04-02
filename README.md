@@ -1,7 +1,11 @@
 #### Certificates
 
+##### 2019
 
-##### 2021 
+- [✔️] [UX Design Tutorial for Begineers](/2019/UX_Design_Tutorial_for_Beginners.pdf)
+
+
+##### 2020 
 
 - [✔️] [Udemy Virtualbox](/2020/VirtualBox_with_virtual_machine.pdf)
 - [✔️] [Udemy Hands-On Linux Terminal](/2020/Hands-On-Linux-Terminal.pdf)
@@ -51,3 +55,4 @@
 - [✔️] [Getting started with Typescript](/2024/Getting_started_with_TypeScript.pdf)
 - [✔️] [Docker(A'dan Z'ye)](/2024/Docker.pdf)
 - [✔️] [Deliver software faster with microservices](/2024/Deliver_software_faster_with_microservices.pdf)
+- [✔️] [GraphQL](/2024/GraphQL.pdf)
