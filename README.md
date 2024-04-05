@@ -55,4 +55,5 @@
 - [✔️] [Getting started with Typescript](/2024/Getting_started_with_TypeScript.pdf)
 - [✔️] [Docker(A'dan Z'ye)](/2024/Docker.pdf)
 - [✔️] [Deliver software faster with microservices](/2024/Deliver_software_faster_with_microservices.pdf)
-- [✔️] [GraphQL](/2024/GraphQL.pdf)
+- [✔️] [GraphQL(2016)](/2024/GraphQL.pdf)
+- [✔️] [Deep Learning](/2024/Deep_Learning.pdf)
