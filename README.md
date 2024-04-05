@@ -1,5 +1,7 @@
 #### Certificates
 
+![Learner](/images/Lifelong_learning.jpg)
+
 ##### 2019
 
 - [✔️] [UX Design Tutorial for Begineers](/2019/UX_Design_Tutorial_for_Beginners.pdf)
