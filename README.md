@@ -59,3 +59,4 @@
 - [✔️] [Deliver software faster with microservices](/2024/Deliver_software_faster_with_microservices.pdf)
 - [✔️] [GraphQL(2016)](/2024/GraphQL.pdf)
 - [✔️] [Deep Learning](/2024/Deep_Learning.pdf)
+- [✔️] [AWS Cloud Practitioner Essentials](/2024/AWS_Cloud_Practitioner_Essentials.pdf)
