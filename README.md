@@ -60,3 +60,4 @@
 - [✔️] [GraphQL(2016)](/2024/GraphQL.pdf)
 - [✔️] [Deep Learning](/2024/Deep_Learning.pdf)
 - [✔️] [AWS Cloud Practitioner Essentials](/2024/AWS_Cloud_Practitioner_Essentials.pdf)
+- [✔️] [Cisco Linux Essentials](/2024/Cisco_LinuxEssentials_certificate.pdf)
