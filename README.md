@@ -61,3 +61,6 @@
 - [✔️] [Deep Learning](/2024/Deep_Learning.pdf)
 - [✔️] [AWS Cloud Practitioner Essentials](/2024/AWS_Cloud_Practitioner_Essentials.pdf)
 - [✔️] [Cisco Linux Essentials](/2024/Cisco_LinuxEssentials_certificate.pdf)
+- [✔️] [CodeIgniter](/2024/CodeIgniter.pdf)
+- [✔️] [Ubuntu Web Development](/2024/Ubuntu_web_development_setup.pdf)
+- [✔️] [12 Factor App](/2024/12-Factor-App.pdf)
