@@ -75,3 +75,4 @@
 - [✔️] [KodeKloud GitLab CICD Architecting Deploying and Optimizing Pipelines](/2024/KodeKloud_GitLab-CICD-Architecting-Deploying-and-Optimizing-Pipelines.pdf)
 - [✔️] [KodeKloud Learn By Doing HashiCorp Nomad](/2024/KodeKloud_Learn-By-Doing-HashiCorp-Nomad.pdf)
 - [✔️] [KodeKloud Python Basics](/2024/KodeKloud_Python-Basics.pdf)
+- [✔️] [BTK DBA 1](/2024/Oracle_Veri_Tabanı_Yönetimi_1_Sertifika.pdf)
